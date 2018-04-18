@@ -8,6 +8,7 @@ h2 {
     margin-top: 20px;
     text-align: center;
 }
+/*设置魔方居中*/
 .container {
     text-align: center;
 }
@@ -54,11 +55,11 @@ h2 {
 }
 /*第五面*/
 #box .five {
-    transform:   rotateY(-90deg) translateZ(80px);
+    transform:   rotateY(-90deg) rotateZ(90deg) translateZ(80px);
 }
 /*第六面*/
 #box .six {
-    transform:  rotateX(-90deg) translateZ(80px);
+    transform:  rotateX(-90deg) rotateZ(90deg) translateZ(80px);
 }
 /*动画效果*/
 @keyframes animation
