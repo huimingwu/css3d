@@ -7,5 +7,5 @@
  - JavaScript
 
  ## 具体项目列表
- - magicSquare >> 魔方 · <a href="https://demo.huimingwu.com/magic_square/" target="_blank">Demo</a>
- - magicSquare >> 淘宝造物节 · <a href="https://demo.huimingwu.com/creation_festival/" target="_blank">Demo</a>
+ - magic_square >> 魔方 · <a href="https://demo.huimingwu.com/magic_square/" target="_blank">Demo</a>
+ - creation_festival >> 淘宝造物节 · <a href="https://demo.huimingwu.com/creation_festival/" target="_blank">Demo</a>
