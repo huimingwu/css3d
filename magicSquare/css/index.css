@@ -37,30 +37,37 @@ h2 {
     animation-iteration-count: infinite;
     animation-duration: 3s
 }
+
 /*第一面*/
 #box .one {
     transform:  translateZ(80px);
 }
+
 /*第二面*/
 #box .two {
     transform:  rotateY(90deg) translateZ(80px);
 }
+
 /*第三面*/
 #box .three {
     transform: rotateX(90deg) translateZ(80px);
 }
+
 /*第四面*/
 #box .four {
     transform: translateZ(-80px);
 }
+
 /*第五面*/
 #box .five {
     transform:   rotateY(-90deg) rotateZ(90deg) translateZ(80px);
 }
+
 /*第六面*/
 #box .six {
     transform:  rotateX(-90deg) rotateZ(90deg) translateZ(80px);
 }
+
 /*动画效果*/
 @keyframes animation
 {
